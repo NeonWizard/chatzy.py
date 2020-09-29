@@ -1,9 +1,4 @@
-.. chatzypy documentation master file, created by
-   sphinx-quickstart on Mon Sep 28 18:06:41 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to chatzypy's documentation!
+chatzy python interface
 ====================================
 
 .. toctree::
