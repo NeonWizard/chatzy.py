@@ -1,7 +1,8 @@
 init:
+	pip install -e .
 	pip install -r requirements.txt
 
 test:
-	python -m pytest
+	pytest
 
 .PHONY: init test
