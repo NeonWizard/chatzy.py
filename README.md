@@ -1,5 +1,6 @@
 # chatzy.py
 [![Documentation Status](https://readthedocs.org/projects/chatzypy/badge/?version=latest)](https://chatzypy.readthedocs.io/en/latest/?badge=latest)
+[![Build Status](https://travis-ci.org/NeonWizard/chatzy.py.svg?branch=master)](https://travis-ci.org/NeonWizard/chatzy.py)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## What is this
