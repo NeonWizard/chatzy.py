@@ -2,6 +2,6 @@ init:
 	pip install -r requirements.txt
 
 test:
-	pytest
+	python -m pytest
 
-.PHONY: init test freeze
+.PHONY: init test
