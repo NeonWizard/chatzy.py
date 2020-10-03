@@ -1,4 +1,4 @@
-chatzy python interface
+Chatzy python interface
 ====================================
 
 .. toctree::
