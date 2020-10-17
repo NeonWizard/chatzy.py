@@ -1,6 +1,6 @@
 import pytest
 
-from chatzypy import Client
+from chatzy import Client
 
 def test_join_room():
 	assert False
