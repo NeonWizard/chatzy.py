@@ -21,3 +21,7 @@ class RateLimit(Exception):
 class InvalidContent(Exception):
 	def __init__(self, *args, **kwargs):
 		super().__init__(*args, **kwargs)
+
+class AlreadyAuthenticated(Exception):
+	def __init__(self, *args, **kwargs):
+		super().__init__(*args, **kwargs)

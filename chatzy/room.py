@@ -1,3 +1,5 @@
+import requests
+
 class Room:
 	"""
 	A chatroom on Chatzy.
@@ -29,7 +31,7 @@ class Room:
 
 		"""
 		raise NotImplementedError
-	
+
 	def send_message(self, message):
 		"""Send a message.
 

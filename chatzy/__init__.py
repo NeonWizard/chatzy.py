@@ -1,1 +1,1 @@
-from chatzy.client import Client
+from .client import Client
